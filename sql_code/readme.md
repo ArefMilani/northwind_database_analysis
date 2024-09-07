@@ -1,5 +1,3 @@
-This folder contains the related sql queries.
-
 ## **SQL Analysis of Northwind Database**
 
 ### **1. Database Exploration**
